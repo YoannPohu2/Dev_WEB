@@ -31,3 +31,12 @@ L' <title>élément spécifie un titre pour la page HTML (qui s'affiche dans la 
 L' <body>élément définit le corps du document et est un conteneur pour tout le contenu visible, tel que les titres, les paragraphes, les images, les hyperliens, les tableaux, les listes, etc.
 L' <h1>élément définit un grand titre
 L' <p>élément définit un paragraphe
+
+Qu'est-ce qu'un élément HTML ?
+Un élément HTML est défini par une balise de début, du contenu et une balise de fin :
+
+<tagname> Le contenu va ici... </tagname>
+L' élément HTML comprend tout, de la balise de début à la balise de fin :
+
+<h1> Mon premier titre </h1>
+<p> Mon premier paragraphe. </p>
