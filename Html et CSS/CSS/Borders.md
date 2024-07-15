@@ -2,7 +2,7 @@
 
 Les propriétés de bordure CSS vous permettent de spécifier le style, la largeur et la couleur de la bordure d'un élément.
 
-La "border-style" propriété spécifie le type de bordure à afficher.
+La <border-style> propriété spécifie le type de bordure à afficher.
 
 Les valeurs suivantes sont autorisées :
 
