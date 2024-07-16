@@ -9,11 +9,11 @@ Les attributs sont toujours spécifiés dans la balise de début
 Les attributs sont généralement fournis sous forme de paires nom/valeur comme : nom="valeur"
 
 # L'attribut href
-La <a>balise définit un lien hypertexte. L' hrefattribut spécifie <l'URL> de la page vers laquelle le lien pointe :
+La <a> balise définit un lien hypertexte. L' hrefattribut spécifie <l'URL> de la page vers laquelle le lien pointe :
 <a href="https://www.w3schools.com">Visit W3Schools</a>
 
 # L'attribut src
-La <img>balise permet d'intégrer une image dans une page HTML. L' <src> attribut spécifie le chemin d'accès à l'image à afficher :
+La <img> balise permet d'intégrer une image dans une page HTML. L' <src> attribut spécifie le chemin d'accès à l'image à afficher :
 <img src="img_girl.jpg">
 
 Il existe deux manières de spécifier l'URL dans l' src attribut 

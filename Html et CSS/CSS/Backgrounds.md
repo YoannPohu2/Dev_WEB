@@ -1,22 +1,24 @@
 # Arrière-plans CSS
 
-background-color :  Cette propriété définit la couleur de fond d'un élément.
+<background-color> :  Cette propriété définit la couleur de fond d'un élément.
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
+<p style="background-color:Tomato;">Lorem ipsum...</p>
 
-background-image : Cette propriété définit une ou plusieurs images de fond pour un élément. On peut spécifier l'URL de l'image à utiliser
+<background-image> : Cette propriété définit une ou plusieurs images de fond pour un élément. On peut spécifier l'URL de l'image à utiliser
 
-background-repeat :  Cette propriété contrôle la répétition des images de fond. Elle peut avoir plusieurs valeurs
+<background-repeat> :  Cette propriété contrôle la répétition des images de fond. Elle peut avoir plusieurs valeurs
 repeat (par défaut, répète l'image horizontalement et verticalement),
 repeat-x (répète l'image seulement horizontalement)
 repeat-y (répète l'image seulement verticalement)
 no-repeat (ne répète pas l'image).
 
-background-attachment :  Cette propriété détermine si l'image de fond est fixe ou défile avec la page , les valeurs possibles sont
+<background-attachment> :  Cette propriété détermine si l'image de fond est fixe ou défile avec la page , les valeurs possibles sont
 scroll (par défaut, l'image de fond défile avec la page)
 fixed (l'image de fond reste fixe même lorsque la page défile).
 
 
 
-background-position : Cette propriété spécifie la position initiale de l'image de fond. Elle peut être définie en utilisant des mots-clés (comme top left, center, bottom right, etc.), des pourcentages ou des unités de mesure comme px.
+<background-position> : Cette propriété spécifie la position initiale de l'image de fond. Elle peut être définie en utilisant des mots-clés (comme top left, center, bottom right, etc.), des pourcentages ou des unités de mesure comme px.
 
 Avec CSS, une couleur est le plus souvent spécifiée par :
 

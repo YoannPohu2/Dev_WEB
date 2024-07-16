@@ -1,4 +1,4 @@
-# Formatage de texte HTML
+# Formatage de texte HTML (format)
 
 HTML contient plusieurs éléments permettant de définir du texte avec une signification particulière.
 

@@ -1,6 +1,6 @@
 # Largeur de bordure CSS
 
-La "border-width" propriété spécifie la largeur des quatre bordures.
+La <border-width> propriété spécifie la largeur des quatre bordures.
 
 La largeur peut être définie comme une taille spécifique (en px, pt, cm, em, etc.) ou en utilisant l'une des trois valeurs prédéfinies : fine, moyenne ou épaisse :
 
@@ -26,7 +26,7 @@ p.four {
 
 # Largeurs latérales spécifiques
 
-La border-width propriété peut avoir d'une à quatre valeurs (pour la bordure supérieure, la bordure droite, la bordure inférieure et la bordure gauche) :
+La <border-width> propriété peut avoir d'une à quatre valeurs (pour la bordure supérieure, la bordure droite, la bordure inférieure et la bordure gauche) :
 
 p.one {
   border-style: solid;
